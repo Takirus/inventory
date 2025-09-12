@@ -28,9 +28,6 @@ URL: http://inventorytest.ru
 **Информация о созданной заявке**
 ![Информация о созданной заявке](https://github.com/Takirus/inventory/blob/main/presentation/image-1.png)
 
-**Личный кабинет админа**
-![Личный кабинет админа](https://github.com/Takirus/inventory/blob/main/presentation/image-4.png)
-
 **Всё доступное оборудование**
 ![Всё доступное оборудование](https://github.com/Takirus/inventory/blob/main/presentation/image-2.png)
 

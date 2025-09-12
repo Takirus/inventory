@@ -23,22 +23,22 @@ URL: http://inventorytest.ru
 - Пароль: 123.123aA
 ## Скриншоты работы приложения 
 **Личный кабинет сотрудника**
-![Личный кабинет сотрудника](presentation\image.png)
+![Личный кабинет сотрудника](https://github.com/Takirus/inventory/blob/main/presentation/image.png)
 
 **Информация о созданной заявке**
-![Информация о созданной заявке](presentation\image-1.png)
+![Информация о созданной заявке](https://github.com/Takirus/inventory/blob/main/presentation/image-1.png)
 
 **Личный кабинет админа**
-![Личный кабинет админа](presentation\image-4.png)
+![Личный кабинет админа](https://github.com/Takirus/inventory/blob/main/presentation/image-4.png)
 
 **Всё доступное оборудование**
-![Всё доступное оборудование](presentation\image-2.png)
+![Всё доступное оборудование](https://github.com/Takirus/inventory/blob/main/presentation/image-2.png)
 
 **Подробная информация о оборудовании**
-![Подробная информация о оборудовании](presentation\image-3.png)
+![Подробная информация о оборудовании](https://github.com/Takirus/inventory/blob/main/presentation/image-3.png)
 
 **Все сотрудники**
-![Все сотрудники](presentation\image-5.png)
+![Все сотрудники](https://github.com/Takirus/inventory/blob/main/presentation/image-5.png)
 
 > Почтовые уведомления временно не работают на развернутом сайте из-за закрытых портов SMTP на VPS.
 
